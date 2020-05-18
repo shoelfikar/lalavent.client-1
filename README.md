@@ -1,5 +1,3 @@
-# event-organizer
-
 <h1 align="center">
   <br>
   <img src="https://vuejs.org/images/logo.png" width="200">
