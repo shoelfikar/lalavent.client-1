@@ -83,7 +83,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
       </td>
       <td align="center">
         <a href="https://github.com/shoelfikar">
-          <img width="150" src="https://avatars0.githubusercontent.com/u/31173796?s=460&v=4" alt="Sulfikardi"><br/>
+          <img width="150" src="https://avatars2.githubusercontent.com/u/55390061?s=400&u=74904e4071d513890cfd34031b87977eeddb09b8&v=4" alt="Sulfikardi"><br/>
           <b>Sulfikardi</b>
         </a>
       </td>
@@ -97,6 +97,4 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
   </table>
 </center>
 
-## Contact
 
-If you want to contact me you can reach me at <ichvanulyp@gmail.com>
