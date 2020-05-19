@@ -71,7 +71,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 
 ## Related Project (Backend)
 
-* [`Backend-Lalavent`](https://github.com/ichvanul/lalavent.server.git)
+* [`Backend-Lalavent`](https://github.com/shoelfikar/lalavent.server)
 
 ## Contributors
 
