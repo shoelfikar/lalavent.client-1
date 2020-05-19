@@ -54,6 +54,21 @@ VUE_APP_URL_API=YOUR_HOST_URL
 VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 ```
 
+## Screenshots
+
+<p align='center'>
+  <span>
+    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/register.png'/>
+    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/Login-akun.png' />
+    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/edit-profil.png' />
+    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/landing-page.png/>
+    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/home.png'/>
+    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/tambah-event.png'/>                                                                                                                                 <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/history.png'/>
+   
+     
+
+
+
 ## Related Project (Backend)
 
 * [`Backend-Lalavent`](https://github.com/ichvanul/lalavent.server.git)
