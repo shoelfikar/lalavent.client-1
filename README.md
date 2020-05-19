@@ -61,7 +61,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
     <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/register.png'/>
     <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/Login-akun.png' />
     <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/edit-profil.png' />
-    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/landing-page.png/>
+    <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/landing-page.png'/>
     <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/home.png'/>
     <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/tambah-event.png'/>                                                                                                                                 <image width="200" src='https://github.com/shoelfikar/Frontend-Cashier-Food-vuejs/blob/master/src/assets/lalavent/history.png'/>
    
