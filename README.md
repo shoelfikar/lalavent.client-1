@@ -35,7 +35,7 @@ Lalavent is a website where user could find an event such as music festival, sta
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/ichvanul/arkapedia.client.git`
+2. Type `git clone https://github.com/shoelfikar/lalavent.client-1.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first
